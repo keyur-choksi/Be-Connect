@@ -1,0 +1,234 @@
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project\Be Connect+\Be Connect+\bin\Debug\Be Connect+.exe.config
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project\Be Connect+\Be Connect+\obj\Debug\Be Connect+.exe
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project\Be Connect+\Be Connect+\obj\Debug\Be Connect+.pdb
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project\Be Connect+\Be Connect+\bin\Debug\Be Connect+.exe
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project\Be Connect+\Be Connect+\bin\Debug\Be Connect+.pdb
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project\Be Connect+\Be Connect+\bin\Debug\MaterialSkin.dll
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.frm_Chat.resources
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.frm_Home.resources
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.Frm_Main0.resources
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.frm_Login.resources
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.Properties.Resources.resources
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project\Be Connect+\Be Connect+\obj\Debug\Be Connect+.csproj.GenerateResource.Cache
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.frm_About.resources
+C:\Users\Rahul Patalia\Desktop\C#\Project\Be Connect+\Be Connect+\bin\Debug\Be Connect+.exe.config
+C:\Users\Rahul Patalia\Desktop\C#\Project\Be Connect+\Be Connect+\obj\Debug\Be Connect+.exe
+C:\Users\Rahul Patalia\Desktop\C#\Project\Be Connect+\Be Connect+\obj\Debug\Be Connect+.pdb
+C:\Users\Rahul Patalia\Desktop\C#\Project\Be Connect+\Be Connect+\bin\Debug\Be Connect+.exe
+C:\Users\Rahul Patalia\Desktop\C#\Project\Be Connect+\Be Connect+\bin\Debug\Be Connect+.pdb
+C:\Users\Rahul Patalia\Desktop\C#\Project\Be Connect+\Be Connect+\bin\Debug\MaterialSkin.dll
+C:\Users\Rahul Patalia\Desktop\C#\Project\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.frm_About.resources
+C:\Users\Rahul Patalia\Desktop\C#\Project\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.frm_Chat.resources
+C:\Users\Rahul Patalia\Desktop\C#\Project\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.frm_Home.resources
+C:\Users\Rahul Patalia\Desktop\C#\Project\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.Frm_Main0.resources
+C:\Users\Rahul Patalia\Desktop\C#\Project\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.frm_Login.resources
+C:\Users\Rahul Patalia\Desktop\C#\Project\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.Properties.Resources.resources
+C:\Users\Rahul Patalia\Desktop\C#\Project\Be Connect+\Be Connect+\obj\Debug\Be Connect+.csproj.GenerateResource.Cache
+C:\Users\Rahul Patalia\Desktop\C#\Project\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.frm_FileTrans.resources
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.frm_FileTrans.resources
+C:\Users\Keyur Choksi\Desktop\Project\Be Connect+\Be Connect+\bin\Debug\Be Connect+.exe.config
+C:\Users\Keyur Choksi\Desktop\Project\Be Connect+\Be Connect+\obj\Debug\Be Connect+.exe
+C:\Users\Keyur Choksi\Desktop\Project\Be Connect+\Be Connect+\obj\Debug\Be Connect+.pdb
+C:\Users\Keyur Choksi\Desktop\Project\Be Connect+\Be Connect+\bin\Debug\Be Connect+.exe
+C:\Users\Keyur Choksi\Desktop\Project\Be Connect+\Be Connect+\bin\Debug\Be Connect+.pdb
+C:\Users\Keyur Choksi\Desktop\Project\Be Connect+\Be Connect+\bin\Debug\MaterialSkin.dll
+C:\Users\Keyur Choksi\Desktop\Project\Be Connect+\Be Connect+\obj\Debug\Be Connect+.csprojResolveAssemblyReference.cache
+C:\Users\Keyur Choksi\Desktop\Project\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.frm_About.resources
+C:\Users\Keyur Choksi\Desktop\Project\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.frm_Chat.resources
+C:\Users\Keyur Choksi\Desktop\Project\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.frm_FileTrans.resources
+C:\Users\Keyur Choksi\Desktop\Project\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.frm_Home.resources
+C:\Users\Keyur Choksi\Desktop\Project\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.Frm_Main0.resources
+C:\Users\Keyur Choksi\Desktop\Project\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.frm_Login.resources
+C:\Users\Keyur Choksi\Desktop\Project\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.Properties.Resources.resources
+C:\Users\Keyur Choksi\Desktop\Project\Be Connect+\Be Connect+\obj\Debug\Be Connect+.csproj.GenerateResource.Cache
+C:\Users\Keyur Choksi\Desktop\Be Connect+\Be Connect+\bin\Debug\Be Connect+.exe.config
+C:\Users\Keyur Choksi\Desktop\Be Connect+\Be Connect+\obj\Debug\Be Connect+.exe
+C:\Users\Keyur Choksi\Desktop\Be Connect+\Be Connect+\obj\Debug\Be Connect+.pdb
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.frm_InputForm.resources
+\\192.168.1.10\bca\B1516_040\BCA5-SEM(34)\Project\Be Connect+\Be Connect+\bin\Debug\Be Connect+.exe.config
+\\192.168.1.10\bca\B1516_040\BCA5-SEM(34)\Project\Be Connect+\Be Connect+\bin\Debug\Be Connect+.exe
+\\192.168.1.10\bca\B1516_040\BCA5-SEM(34)\Project\Be Connect+\Be Connect+\bin\Debug\Be Connect+.pdb
+\\192.168.1.10\bca\B1516_040\BCA5-SEM(34)\Project\Be Connect+\Be Connect+\bin\Debug\MaterialSkin.dll
+\\192.168.1.10\bca\B1516_040\BCA5-SEM(34)\Project\Be Connect+\Be Connect+\obj\Debug\Be Connect+.csprojResolveAssemblyReference.cache
+\\192.168.1.10\bca\B1516_040\BCA5-SEM(34)\Project\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.frm_About.resources
+\\192.168.1.10\bca\B1516_040\BCA5-SEM(34)\Project\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.frm_Chat.resources
+\\192.168.1.10\bca\B1516_040\BCA5-SEM(34)\Project\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.frm_FileTrans.resources
+\\192.168.1.10\bca\B1516_040\BCA5-SEM(34)\Project\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.frm_Home.resources
+\\192.168.1.10\bca\B1516_040\BCA5-SEM(34)\Project\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.frm_InputForm.resources
+\\192.168.1.10\bca\B1516_040\BCA5-SEM(34)\Project\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.Frm_Main0.resources
+\\192.168.1.10\bca\B1516_040\BCA5-SEM(34)\Project\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.frm_Login.resources
+\\192.168.1.10\bca\B1516_040\BCA5-SEM(34)\Project\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.Properties.Resources.resources
+\\192.168.1.10\bca\B1516_040\BCA5-SEM(34)\Project\Be Connect+\Be Connect+\obj\Debug\Be Connect+.csproj.GenerateResource.Cache
+\\192.168.1.10\bca\B1516_040\BCA5-SEM(34)\Project\Be Connect+\Be Connect+\obj\Debug\Be Connect+.exe
+\\192.168.1.10\bca\B1516_040\BCA5-SEM(34)\Project\Be Connect+\Be Connect+\obj\Debug\Be Connect+.pdb
+C:\Users\Rahul Patalia\Desktop\Be Connect+\Be Connect+\Be Connect+\bin\Debug\Be Connect+.exe.config
+C:\Users\Rahul Patalia\Desktop\Be Connect+\Be Connect+\Be Connect+\bin\Debug\Be Connect+.exe
+C:\Users\Rahul Patalia\Desktop\Be Connect+\Be Connect+\Be Connect+\bin\Debug\Be Connect+.pdb
+C:\Users\Rahul Patalia\Desktop\Be Connect+\Be Connect+\Be Connect+\bin\Debug\MaterialSkin.dll
+C:\Users\Rahul Patalia\Desktop\Be Connect+\Be Connect+\Be Connect+\obj\Debug\Be Connect+.csprojResolveAssemblyReference.cache
+C:\Users\Rahul Patalia\Desktop\Be Connect+\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.frm_About.resources
+C:\Users\Rahul Patalia\Desktop\Be Connect+\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.frm_Chat.resources
+C:\Users\Rahul Patalia\Desktop\Be Connect+\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.frm_FileTrans.resources
+C:\Users\Rahul Patalia\Desktop\Be Connect+\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.frm_Flashscreen.resources
+C:\Users\Rahul Patalia\Desktop\Be Connect+\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.frm_Home.resources
+C:\Users\Rahul Patalia\Desktop\Be Connect+\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.frm_InputForm.resources
+C:\Users\Rahul Patalia\Desktop\Be Connect+\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.Frm_Main0.resources
+C:\Users\Rahul Patalia\Desktop\Be Connect+\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.frm_Login.resources
+C:\Users\Rahul Patalia\Desktop\Be Connect+\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.Properties.Resources.resources
+C:\Users\Rahul Patalia\Desktop\Be Connect+\Be Connect+\Be Connect+\obj\Debug\Be Connect+.csproj.GenerateResource.Cache
+C:\Users\Rahul Patalia\Desktop\Be Connect+\Be Connect+\Be Connect+\obj\Debug\Be Connect+.exe
+C:\Users\Rahul Patalia\Desktop\Be Connect+\Be Connect+\Be Connect+\obj\Debug\Be Connect+.pdb
+C:\Users\Rahul Patalia\Desktop\C#\Project\Be Connect+\Be Connect+\bin\Debug\Interop.MSTSCLib.dll
+C:\Users\Rahul Patalia\Desktop\C#\Project\Be Connect+\Be Connect+\bin\Debug\AxInterop.MSTSCLib.dll
+C:\Users\Rahul Patalia\Desktop\C#\Project\Be Connect+\Be Connect+\obj\Debug\Interop.MSTSCLib.dll
+C:\Users\Rahul Patalia\Desktop\C#\Project\Be Connect+\Be Connect+\obj\Debug\AxInterop.MSTSCLib.dll
+C:\Users\Rahul Patalia\Desktop\C#\Project\Be Connect+\Be Connect+\obj\Debug\Be Connect+.csproj.ResolveComReference.cache
+C:\Users\Rahul Patalia\Desktop\C#\Project\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.frm_Flashscreen.resources
+C:\Users\Rahul Patalia\Desktop\C#\Project\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.frm_InputForm.resources
+C:\Users\Rahul Patalia\Desktop\C#\Project\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.frm_RDCInput.resources
+C:\Users\Rahul Patalia\Desktop\C#\Project\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.frm_RemoteDesktop.resources
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project_\Be Connect+\Be Connect+\bin\Debug\Be Connect+.exe.config
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project_\Be Connect+\Be Connect+\bin\Debug\Be Connect+.exe
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project_\Be Connect+\Be Connect+\bin\Debug\Be Connect+.pdb
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project_\Be Connect+\Be Connect+\bin\Debug\MaterialSkin.dll
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project_\Be Connect+\Be Connect+\bin\Debug\Interop.MSTSCLib.dll
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project_\Be Connect+\Be Connect+\bin\Debug\AxInterop.MSTSCLib.dll
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project_\Be Connect+\Be Connect+\obj\Debug\Interop.MSTSCLib.dll
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project_\Be Connect+\Be Connect+\obj\Debug\AxInterop.MSTSCLib.dll
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project_\Be Connect+\Be Connect+\obj\Debug\Be Connect+.csproj.ResolveComReference.cache
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project_\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.frm_About.resources
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project_\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.frm_Chat.resources
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project_\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.frm_FileTrans.resources
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project_\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.frm_Home.resources
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project_\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.frm_InputForm.resources
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project_\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.Frm_Main0.resources
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project_\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.frm_Login.resources
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project_\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.frm_RDCInput.resources
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project_\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.frm_RemoteDesktop.resources
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project_\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.Properties.Resources.resources
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project_\Be Connect+\Be Connect+\obj\Debug\Be Connect+.csproj.GenerateResource.Cache
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project_\Be Connect+\Be Connect+\obj\Debug\Be Connect+.exe
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project_\Be Connect+\Be Connect+\obj\Debug\Be Connect+.pdb
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project_\Be Connect+\Be Connect+\obj\Debug\Be Connect+.csprojResolveAssemblyReference.cache
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project\Be Connect+\Be Connect+\bin\Debug\Interop.MSTSCLib.dll
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project\Be Connect+\Be Connect+\bin\Debug\AxInterop.MSTSCLib.dll
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project\Be Connect+\Be Connect+\obj\Debug\Interop.MSTSCLib.dll
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project\Be Connect+\Be Connect+\obj\Debug\AxInterop.MSTSCLib.dll
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project\Be Connect+\Be Connect+\obj\Debug\Be Connect+.csproj.ResolveComReference.cache
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.frm_RDCInput.resources
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.frm_RemoteDesktop.resources
+C:\Users\PC\Desktop\Project\Be Connect+\Be Connect+\bin\Debug\Be Connect+.exe.config
+C:\Users\PC\Desktop\Project\Be Connect+\Be Connect+\bin\Debug\Be Connect+.exe
+C:\Users\PC\Desktop\Project\Be Connect+\Be Connect+\bin\Debug\Be Connect+.pdb
+C:\Users\PC\Desktop\Project\Be Connect+\Be Connect+\bin\Debug\MaterialSkin.dll
+C:\Users\PC\Desktop\Project\Be Connect+\Be Connect+\bin\Debug\Interop.MSTSCLib.dll
+C:\Users\PC\Desktop\Project\Be Connect+\Be Connect+\bin\Debug\AxInterop.MSTSCLib.dll
+C:\Users\PC\Desktop\Project\Be Connect+\Be Connect+\obj\Debug\Be Connect+.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Project\Be Connect+\Be Connect+\obj\Debug\Interop.MSTSCLib.dll
+C:\Users\PC\Desktop\Project\Be Connect+\Be Connect+\obj\Debug\AxInterop.MSTSCLib.dll
+C:\Users\PC\Desktop\Project\Be Connect+\Be Connect+\obj\Debug\Be Connect+.csproj.ResolveComReference.cache
+C:\Users\PC\Desktop\Project\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.frm_About.resources
+C:\Users\PC\Desktop\Project\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.frm_Chat.resources
+C:\Users\PC\Desktop\Project\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.frm_FileTrans.resources
+C:\Users\PC\Desktop\Project\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.frm_Home.resources
+C:\Users\PC\Desktop\Project\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.frm_InputForm.resources
+C:\Users\PC\Desktop\Project\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.Frm_Main0.resources
+C:\Users\PC\Desktop\Project\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.frm_Login.resources
+C:\Users\PC\Desktop\Project\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.frm_RDCInput.resources
+C:\Users\PC\Desktop\Project\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.frm_RemoteDesktop.resources
+C:\Users\PC\Desktop\Project\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.Properties.Resources.resources
+C:\Users\PC\Desktop\Project\Be Connect+\Be Connect+\obj\Debug\Be Connect+.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Project\Be Connect+\Be Connect+\obj\Debug\Be Connect+.exe
+C:\Users\PC\Desktop\Project\Be Connect+\Be Connect+\obj\Debug\Be Connect+.pdb
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project\Project\Be Connect+\Be Connect+\bin\Debug\Be Connect+.exe.config
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project\Project\Be Connect+\Be Connect+\bin\Debug\Be Connect+.exe
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project\Project\Be Connect+\Be Connect+\bin\Debug\Be Connect+.pdb
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project\Project\Be Connect+\Be Connect+\bin\Debug\MaterialSkin.dll
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project\Project\Be Connect+\Be Connect+\bin\Debug\Interop.MSTSCLib.dll
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project\Project\Be Connect+\Be Connect+\bin\Debug\AxInterop.MSTSCLib.dll
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project\Project\Be Connect+\Be Connect+\obj\Debug\Be Connect+.csprojResolveAssemblyReference.cache
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project\Project\Be Connect+\Be Connect+\obj\Debug\Interop.MSTSCLib.dll
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project\Project\Be Connect+\Be Connect+\obj\Debug\AxInterop.MSTSCLib.dll
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project\Project\Be Connect+\Be Connect+\obj\Debug\Be Connect+.csproj.ResolveComReference.cache
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project\Project\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.frm_About.resources
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project\Project\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.frm_Chat.resources
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project\Project\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.frm_FileTrans.resources
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project\Project\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.frm_Home.resources
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project\Project\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.frm_InputForm.resources
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project\Project\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.Frm_Main0.resources
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project\Project\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.frm_Login.resources
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project\Project\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.frm_RDCInput.resources
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project\Project\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.frm_RemoteDesktop.resources
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project\Project\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.Properties.Resources.resources
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project\Project\Be Connect+\Be Connect+\obj\Debug\Be Connect+.csproj.GenerateResource.Cache
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project\Project\Be Connect+\Be Connect+\obj\Debug\Be Connect+.exe
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project\Project\Be Connect+\Be Connect+\obj\Debug\Be Connect+.pdb
+F:\Project(SEM 05(35))\Source Code\Project\Be Connect+\Be Connect+\obj\Debug\Be Connect+.csprojResolveAssemblyReference.cache
+F:\Project(SEM 05(35))\Source Code\Project\Be Connect+\Be Connect+\obj\Debug\Interop.MSTSCLib.dll
+F:\Project(SEM 05(35))\Source Code\Project\Be Connect+\Be Connect+\obj\Debug\AxInterop.MSTSCLib.dll
+F:\Project(SEM 05(35))\Source Code\Project\Be Connect+\Be Connect+\obj\Debug\Be Connect+.csproj.ResolveComReference.cache
+F:\Project(SEM 05(35))\Source Code\Project\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.frm_About.resources
+F:\Project(SEM 05(35))\Source Code\Project\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.frm_Chat.resources
+F:\Project(SEM 05(35))\Source Code\Project\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.frm_FileTrans.resources
+F:\Project(SEM 05(35))\Source Code\Project\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.frm_Home.resources
+F:\Project(SEM 05(35))\Source Code\Project\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.frm_InputForm.resources
+F:\Project(SEM 05(35))\Source Code\Project\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.Frm_Main0.resources
+F:\Project(SEM 05(35))\Source Code\Project\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.frm_Login.resources
+F:\Project(SEM 05(35))\Source Code\Project\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.frm_RDCInput.resources
+F:\Project(SEM 05(35))\Source Code\Project\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.frm_RemoteDesktop.resources
+F:\Project(SEM 05(35))\Source Code\Project\Be Connect+\Be Connect+\obj\Debug\Be_Connect_.Properties.Resources.resources
+F:\Project(SEM 05(35))\Source Code\Project\Be Connect+\Be Connect+\obj\Debug\Be Connect+.csproj.GenerateResource.Cache
+F:\Project(SEM 05(35))\Source Code\Project\Be Connect+\Be Connect+\obj\Debug\Be Connect+.exe
+F:\Project(SEM 05(35))\Source Code\Project\Be Connect+\Be Connect+\bin\Debug\Be Connect+.exe.config
+F:\Project(SEM 05(35))\Source Code\Project\Be Connect+\Be Connect+\bin\Debug\Be Connect+.exe
+F:\Project(SEM 05(35))\Source Code\Project\Be Connect+\Be Connect+\bin\Debug\Be Connect+.pdb
+F:\Project(SEM 05(35))\Source Code\Project\Be Connect+\Be Connect+\bin\Debug\MaterialSkin.dll
+F:\Project(SEM 05(35))\Source Code\Project\Be Connect+\Be Connect+\bin\Debug\Interop.MSTSCLib.dll
+F:\Project(SEM 05(35))\Source Code\Project\Be Connect+\Be Connect+\bin\Debug\AxInterop.MSTSCLib.dll
+F:\Project(SEM 05(35))\Source Code\Project\Be Connect+\Be Connect+\obj\Debug\Be Connect+.pdb
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project\Be Connect+\bin\Debug\Be Connect+.exe.config
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project\Be Connect+\bin\Debug\Be Connect+.exe
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project\Be Connect+\bin\Debug\Be Connect+.pdb
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project\Be Connect+\bin\Debug\MaterialSkin.dll
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project\Be Connect+\bin\Debug\Interop.MSTSCLib.dll
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project\Be Connect+\bin\Debug\AxInterop.MSTSCLib.dll
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project\Be Connect+\obj\Debug\Be Connect+.csprojResolveAssemblyReference.cache
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project\Be Connect+\obj\Debug\Interop.MSTSCLib.dll
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project\Be Connect+\obj\Debug\AxInterop.MSTSCLib.dll
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project\Be Connect+\obj\Debug\Be Connect+.csproj.ResolveComReference.cache
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project\Be Connect+\obj\Debug\Be_Connect_.frm_About.resources
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project\Be Connect+\obj\Debug\Be_Connect_.frm_Chat.resources
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project\Be Connect+\obj\Debug\Be_Connect_.frm_FileTrans.resources
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project\Be Connect+\obj\Debug\Be_Connect_.frm_Home.resources
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project\Be Connect+\obj\Debug\Be_Connect_.frm_InputForm.resources
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project\Be Connect+\obj\Debug\Be_Connect_.Frm_Main0.resources
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project\Be Connect+\obj\Debug\Be_Connect_.frm_Login.resources
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project\Be Connect+\obj\Debug\Be_Connect_.frm_RDCInput.resources
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project\Be Connect+\obj\Debug\Be_Connect_.frm_RemoteDesktop.resources
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project\Be Connect+\obj\Debug\Be_Connect_.Properties.Resources.resources
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project\Be Connect+\obj\Debug\Be Connect+.csproj.GenerateResource.Cache
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project\Be Connect+\obj\Debug\Be Connect+.exe
+\\server\BCA\B1516_040\BCA5-SEM(34)\Project\Be Connect+\obj\Debug\Be Connect+.pdb
+F:\Keyur\E\BCA\Project\Source Code\Be Connect+\bin\Debug\Be Connect+.exe.config
+F:\Keyur\E\BCA\Project\Source Code\Be Connect+\bin\Debug\Be Connect+.exe
+F:\Keyur\E\BCA\Project\Source Code\Be Connect+\bin\Debug\Be Connect+.pdb
+F:\Keyur\E\BCA\Project\Source Code\Be Connect+\bin\Debug\MaterialSkin.dll
+F:\Keyur\E\BCA\Project\Source Code\Be Connect+\bin\Debug\Interop.MSTSCLib.dll
+F:\Keyur\E\BCA\Project\Source Code\Be Connect+\bin\Debug\AxInterop.MSTSCLib.dll
+F:\Keyur\E\BCA\Project\Source Code\Be Connect+\obj\Debug\Be Connect+.csprojResolveAssemblyReference.cache
+F:\Keyur\E\BCA\Project\Source Code\Be Connect+\obj\Debug\Interop.MSTSCLib.dll
+F:\Keyur\E\BCA\Project\Source Code\Be Connect+\obj\Debug\AxInterop.MSTSCLib.dll
+F:\Keyur\E\BCA\Project\Source Code\Be Connect+\obj\Debug\Be Connect+.csproj.ResolveComReference.cache
+F:\Keyur\E\BCA\Project\Source Code\Be Connect+\obj\Debug\Be_Connect_.frm_About.resources
+F:\Keyur\E\BCA\Project\Source Code\Be Connect+\obj\Debug\Be_Connect_.frm_Chat.resources
+F:\Keyur\E\BCA\Project\Source Code\Be Connect+\obj\Debug\Be_Connect_.frm_FileTrans.resources
+F:\Keyur\E\BCA\Project\Source Code\Be Connect+\obj\Debug\Be_Connect_.frm_Home.resources
+F:\Keyur\E\BCA\Project\Source Code\Be Connect+\obj\Debug\Be_Connect_.frm_InputForm.resources
+F:\Keyur\E\BCA\Project\Source Code\Be Connect+\obj\Debug\Be_Connect_.Frm_Main0.resources
+F:\Keyur\E\BCA\Project\Source Code\Be Connect+\obj\Debug\Be_Connect_.frm_Login.resources
+F:\Keyur\E\BCA\Project\Source Code\Be Connect+\obj\Debug\Be_Connect_.frm_RDCInput.resources
+F:\Keyur\E\BCA\Project\Source Code\Be Connect+\obj\Debug\Be_Connect_.frm_RemoteDesktop.resources
+F:\Keyur\E\BCA\Project\Source Code\Be Connect+\obj\Debug\Be_Connect_.Properties.Resources.resources
+F:\Keyur\E\BCA\Project\Source Code\Be Connect+\obj\Debug\Be Connect+.csproj.GenerateResource.Cache
+F:\Keyur\E\BCA\Project\Source Code\Be Connect+\obj\Debug\Be Connect+.exe
+F:\Keyur\E\BCA\Project\Source Code\Be Connect+\obj\Debug\Be Connect+.pdb
